@@ -15,8 +15,8 @@ Benefit yang didapatkan:
 - Sertifikat
 - Recording
 
-Biaya pendaftaran: Rp 35.000,00
-Pendaftaran bisa melalui link https://s.id/log4jcyberkarta
-Pendaftaran akan ditutup pada Selasa, 11 Januari 2022 jam 23.59.
-
-Link kelas dan discord akan dikirimkan pada Senin 10 Januari 2022 pukul 14.00 dan Rabu 12 Januari 2022 pukul 14.00.
+Informasi tentang pendaftaran:
+- Biaya pendaftaran: Rp 35.000,00
+- Pendaftaran bisa melalui link https://s.id/log4jcyberkarta
+- Pendaftaran akan ditutup pada Selasa, 11 Januari 2022 jam 23.59.
+- Link kelas dan discord akan dikirimkan pada Senin 10 Januari 2022 pukul 14.00 dan Rabu 12 Januari 2022 pukul 14.00.
