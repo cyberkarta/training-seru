@@ -13,6 +13,7 @@ Benefit yang didapatkan:
 - Sesi live untuk interaksi secara langsung dengan mentor
 - Discord channel untuk membangung komunitas cyber security
 - Sertifikat
+- Recording
 
 Biaya pendaftaran: Rp 35.000,00
 Pendaftaran bisa melalui link https://s.id/log4jcyberkarta
