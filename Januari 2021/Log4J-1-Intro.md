@@ -47,9 +47,9 @@ Linux/Rootkt-M
 
 
 ## Benefit Mengetahui Log4shell
-Banyak vulnerability serupa
+Banyak vulnerability serupa:
 - Shellshock (2014)
-- Java SQL Database (2022) -> cara eksploitasi persis sama dengan Log4shell
+- H2 Java SQL Database (2022) -> cara eksploitasi persis sama dengan Log4shell
 
 Bagi offensive security: membuka peluang untuk mendeteksi dan melaporkan vulnerability serupa.
 
@@ -85,6 +85,13 @@ Burp Suite Professional
 
 Vulnerability Scanner
 https://github.com/CERTCC/CVE-2021-44228_scanner
+Yara: https://github.com/bi-zone/Log4j_Detector
+
+
+**Deteksi untuk pentester:**
+- Burp Suite Collaborator
+- Interactsh: https://github.com/projectdiscovery/interactsh
+- Huntress lab: https://log4shell.huntress.com/ atau https://github.com/huntresslabs/log4shell-tester
 
 
 **Berita:**
