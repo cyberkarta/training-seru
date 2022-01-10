@@ -11,7 +11,8 @@ Pelatihan ini akan dilaksanakan selama 2 hari, yaitu
 
 Benefit yang didapatkan:
 - Sesi live untuk interaksi secara langsung dengan mentor
-- Discord channel untuk membangung komunitas cyber security
+- Discord channel untuk membangun komunitas cyber security
+- Komunikasi tentang materi cybersecurity di Discord Cyberkarta
 - Sertifikat
 - Recording
 
