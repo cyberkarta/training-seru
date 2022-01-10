@@ -93,6 +93,10 @@ Yara: https://github.com/bi-zone/Log4j_Detector
 - Interactsh: https://github.com/projectdiscovery/interactsh
 - Huntress lab: https://log4shell.huntress.com/ atau https://github.com/huntresslabs/log4shell-tester
 
+**Vulnerable version**
+Server Minecraft (Papermc-1.8.8-443)
+https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar
+
 
 **Berita:**
 https://portswigger.net/daily-swig/log4j
