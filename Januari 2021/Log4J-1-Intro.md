@@ -51,6 +51,8 @@ Banyak vulnerability serupa:
 - Shellshock (2014)
 - H2 Java SQL Database (2022) -> cara eksploitasi persis sama dengan Log4shell
 
+Sampai sekarang masih aktif dieksploitasi.
+
 Bagi offensive security: membuka peluang untuk mendeteksi dan melaporkan vulnerability serupa.
 
 Bagi defender: mengetahui tingkat keamanan dari sistem yang dibangun, pada kasus ini pada aplikasi berbasis Java.
