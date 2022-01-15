@@ -1,2 +1,5 @@
-#obsidian
+# obsidian
 .obsidian/
+
+# config
+.config/
