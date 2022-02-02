@@ -13,10 +13,14 @@ Non-staged:
 - Exploit shellcode dikirimkan langsung seluruhnya. 
 - Size besar
 - Tidak selalu berhasil
-- windows/meterpreter_reverse_tcp
+- Contoh: 
+	- windows/meterpreter_reverse_tcp
+	- linux/x86/shell_reverse_tcp
 
 Staged:
 - Payload dikirimkan berkala
 - Terkadang kurang stabil
-- Contoh: windows/meterpreter/reverse_tcp
+- Contoh: 
+	- windows/meterpreter/reverse_tcp
+	- linux/x86/shell/reverse_tcp
 
