@@ -139,6 +139,7 @@ getuid
 
 
 ## Modul
+Apabila menambahkan modul, kamu perlu restart Metasploit, atau reload_all
 ```sh
 # primer
 /usr/share/metasploit-framework/modules/
@@ -157,3 +158,4 @@ msfconsole
 loadpath /lokasi/folder/modul
 
 ```
+
