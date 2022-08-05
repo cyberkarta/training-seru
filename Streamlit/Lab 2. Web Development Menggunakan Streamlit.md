@@ -188,5 +188,3 @@ st.text("This is my quality")
 
 
 
-
-
