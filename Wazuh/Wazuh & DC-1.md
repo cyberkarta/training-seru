@@ -223,6 +223,21 @@ sed -i 's/toornew:!:/toornew:$6$uW5y3OHZDcc0avXy$WiqPpaw7e2a7K8Z.oKMUgMzCAVooT0H
 [root@manager ~]# ssh toornew@192.168.1.54
 ```
 
+To connect to Wazuh Manager on newer version
+```
+Command
+
+vi /etc/apt/sources.list
+deb-src http://ftp.au.debian.org/debian/ wheezy main
+deb-src http://security.debian.org/ wheezy/updates main
+deb http://archive.debian.org/debian-security/ wheezy/updates main
+deb http://archive.debian.org/debian wheezy main
+
+
+apt-get update //error invalid since 1310d 9h 14min 12s
+apt-get update -o Acquire::Check-Valid-Until=false;
+apt-get install apt-transport-https ca-certificates lsb-release gnupg2 -o Acquire::Check-Valid-Until=false;
+```
 # Referensi
 https://blog.mzfr.me/vulnhub-writeups/2019-07-12-DC1
 https://wazuh.com/blog/detecting-metasploit-attacks/
